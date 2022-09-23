@@ -6,7 +6,7 @@
 //© 2022 NIPUNA Bot Inc. lione Bot MD
 //Thank you to Lord NIPUNA, Family and Myself
 //════════════════════════════//
-      // NIPUNA
+      // Pathum-Official
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
