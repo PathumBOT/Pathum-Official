@@ -1,8 +1,8 @@
 {
-  "name": "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Nipuna-apps/Blue-Lione-Bot",
-  "logo": "https://i.ibb.co/fdVNVby/337211b6aaa25af5dc698da9e41691a0.jpg",
+  "name": "ᑭᗩTᕼᑌᗰ-𝔟ᵒ𝔱 ♚",
+  "description": "whatsapp md bot build with Pathum-Official",
+  "repository": "https://github.com/Pathum2005/Pathum-Official",
+  "logo": "https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/300879896_1191469391636894_6039112901209950442_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=67k5n-e_8FMAX_1Qg03&tn=msGj56VmcAptm_e2&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT_58NA461miSiJmdTr8A47eXtHV8FsPhviYwFg3dEbbcg&oe=6332329C",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
