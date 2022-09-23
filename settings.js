@@ -11,6 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '5b6a9902b1',
 }
 
+global.alivemsg = `📤I am alive now😇
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 global.OWNER_REACT = '🧑🏻‍💻'
 global.REACT_NUMBER = '+94787815824'
